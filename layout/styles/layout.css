@@ -252,16 +252,16 @@ input:focus, textarea:focus, *:required:focus{border-color:#808080;}
 .overlay.light::after{background-color:rgba(255,255,255,.55);}
 
 .btn, .btn.inverse:hover{color:#ffffff; background-color:#101010; border-color:#808080;}
-.btn:hover, .btn.inverse{color:inherit; background-color:#404040ff; border-color:inherit;}
+.btn:hover, .btn.inverse{color:inherit; background-color:#404040; border-color:inherit;}
 
 
 /* Rows */
 .row0, .row0 a{}
-.row1{color:#FFFFFF; background-color:rgba(0,0,0,.3);}
+.row1{color:#FFFFFF; background-color:rgba(0,0,0,.8);}
 .row2{color:#5F5F5F; background-color:#F7F7F7;}
 .row3{color:#5F5F5F; background-color:#FFFFFF;}
 .row4{color:#D3D3D3; background-color:#2D2D2D;}
-.row5, .row5 a{color:#D3D3D3; background-color:#212121;}
+.row5, .row5 a{color:#D3D3D3; background-color:#000000;}
 
 
 /* Top Bar */
