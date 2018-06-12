@@ -43,16 +43,16 @@ File: Layout CSS
 
 /* Content Area
 --------------------------------------------------------------------------------------------------------------- */
-.container{padding:80px 0;}
+.container{padding:60px 0;}
 
 /* Content */
 .container .content{}
 
-.sectiontitle{display:block; margin-bottom:80px;}
+.sectiontitle{display:block; margin-bottom:40px;}
 .sectiontitle *{margin:0;}
 
 .services{}
-.services li{padding:40px 0 0 0; text-align:center;}
+.services li{padding:0 0 0 0; text-align:center;}
 .services li:last-child{margin-bottom:0;}/* Used when elements stack in small viewports */
 .services li *{}
 .services li article{display:block; position:relative; padding:65px 20px 25px 20px; border:1px solid;}
